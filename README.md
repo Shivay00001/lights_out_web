@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 First, run the development server:
 
 ```bash
@@ -38,4 +40,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Prerequisites
 - Required environment and dependencies
-
